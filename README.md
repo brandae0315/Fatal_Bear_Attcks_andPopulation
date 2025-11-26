@@ -1,7 +1,10 @@
 # Fatal Bear Attacks 2000–2025
 
 ## Project Overview
-This project visualizes fatal bear attacks in North America between 2000–2025, alongside state-level bear population data. The interactive web map provides insights into the geographic distribution of incidents and highlights correlations with bear populations across states.
+This project explores the intersection of human–wildlife conflict and ecological data by mapping fatal bear attacks across North America from 2000–2025. The interactive visualization combines incident locations with state-level bear population estimates to provide a clearer picture of where risks are concentrated and how they relate to bear distribution. By integrating multiple data sources, the map highlights both the rarity and geographic clustering of fatal encounters, while also emphasizing the importance of understanding bear ecology in conservation and public safety contexts.
+
+The map is designed to be both informative and accessible. Users can zoom and pan to explore regions, click on states to reveal bear population counts, and interpret attack patterns through custom icons for different bear species. Choropleth shading adds another layer of insight, showing relative population densities. Together, these features create a map for education and awareness about human–bear interactions.
+
 
 ## Features
 - **Interactive Map**: Built with Leaflet, allowing users to explore attack locations and bear population densities.
